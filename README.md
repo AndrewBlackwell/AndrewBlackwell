@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 🏄🏼 I'm Andrew!
+- 🏯 I'm currently a full-time student studying Computer Science and Mathematics.
+- 🌸 I'm passionate about Open-Source, and I'm looking to collaborate on quality projects that benefit others!
+- 🐣 I’m currently learning Git and JavaScript, with a strong foundation in Java programming.
+- 🐸💬 Reach me on Instagram, Twitter, or Discord.
 <!--
 **AndrewBlackwell/AndrewBlackwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
