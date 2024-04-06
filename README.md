@@ -1,6 +1,4 @@
-# Hey, I'm Andrew.  🌊🏄🏻‍♂️
-Computer Science and Mathematics Student.
+# Hey, I'm Andrew. 🤖
+A Computer Science and Mathematics Student from Appalachian State University, building cool stuff in my free time.
 
-Building cool AIML stuff in my free time.
-
-Reach out at blackwellaf@appstate.edu.
+Feel free to reach out at blackwellaf@appstate.edu.
