@@ -1,4 +1,4 @@
-# Hey, I'm Andrew. 🤖
+# Hey, I'm Andrew. 🦥
 A Computer Science and Mathematics Student from Appalachian State University,\
 building cool stuff in my free time. Currently, AI research intern.
 
