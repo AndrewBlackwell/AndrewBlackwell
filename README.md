@@ -1,5 +1,4 @@
-# Hey, I'm Andrew. 🦥
-A Computer Science and Mathematics Student at Appalachian State University.\
-Building cool stuff in my free time
+# Hey, I'm Andrew 🦥
+Computer Science and Mathematics Student at Appalachian State University.\
 
 Feel free to reach out at blackwellaf[at]appstate[dot]edu.
