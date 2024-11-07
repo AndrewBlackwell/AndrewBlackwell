@@ -1,5 +1,13 @@
-# Hey, I'm Andrew 🦥
-Computer Science Student at Appalachian State University.
-Feel free to reach out at blackwellaf[at]appstate[dot]edu.
+# Hey, I'm Andrew
 
-<iframe src="https://giphy.com/embed/fhAwk4DnqNgw8" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-school-college-fhAwk4DnqNgw8">via GIPHY</a></p>
+**Computer Science Student at Appalachian State University**\
+Welcome to my GitHub profile! I'm passionate about building, optimizing, and pushing boundaries in technology. If you'd like to connect, reach out via email: **blackwellaf[at]appstate[dot]edu**.
+
+### Areas of Interest:
+
+- **Software/Hardware Optimization**
+- **High-Performance Computing (HPC)**
+- **Distributed Systems**
+- **Tools and Developer Productivity Solutions**
+
+Ich spreche auch Deutsch, 我正在学习中文.
