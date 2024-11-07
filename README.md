@@ -9,4 +9,4 @@ Welcome to my GitHub profile! I'm passionate about building, optimizing, and pus
 - **Distributed Systems**
 - **Tools and Developer Productivity Solutions**
 
-Outside of Software, I am a former [Memory Champion](https://mindsportsolympiad.com/), and current [Poker Player](https://www.thehendonmob.com/) and [Competitive Programmer](https://icpc.global/).<br>Ich spreche auch Deutsch, 我正在学习中文. If you'd like to connect, please reach out via email: [blackwellaf[at]appstate[dot]edu](mailto:blackwellaf@appstate.edu).
+Outside of Software, I am a former [Memory Champion](https://mindsportsolympiad.com/), and current [Poker Player](https://www.thehendonmob.com/) and [Competitive Programmer](https://icpc.global/).<br>Ich bin etwas bewandert in Deutsch, 我正在学习中文. If you'd like to connect, please reach out via email: [blackwellaf[at]appstate[dot]edu](mailto:blackwellaf@appstate.edu).
