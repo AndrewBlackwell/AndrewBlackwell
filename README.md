@@ -1,7 +1,7 @@
 # Hey, I'm Andrew
 
 **Computer Science Student at Appalachian State University**\
-Welcome to my GitHub profile! I'm passionate about building, optimizing, and pushing boundaries in technology.
+I develop code to solve problems in ways that challenge conventional thinking.
 ### Areas of Interest:
 
 - **Software/Hardware Optimization**
