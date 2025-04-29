@@ -1,8 +1,7 @@
 # Hey, I'm Andrew
 
 **Computer Science & Mathematics Student at Appalachian State University**\
-I develop code to solve problems in ways that challenge conventional thinking.
-### Areas of Interest:
+### Areas I've Recently Done Work In:
 - **High-Performance & Low-Latency Computing** (C++, SIMD, AVX, FPGA, kdb+)
 - **Concurrency & Multithreading** (Lock-Free Programming, RDMA, XDP, DPDK)
 - **Systems Engineering & Optimization** (Linux Kernel Tuning, perf, VTune, Valgrind)
