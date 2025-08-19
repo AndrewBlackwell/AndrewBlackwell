@@ -1,11 +1,14 @@
-# Hey, I'm Andrew
+# Andrew Blackwell  
 
-**Computer Science & Mathematics Student at Appalachian State University**\
-### Areas I've Recently Done Work In:
-- **High-Performance & Low-Latency Computing** (C++, SIMD, AVX, FPGA, kdb+)
-- **Concurrency & Multithreading** (Lock-Free Programming, RDMA, XDP, DPDK)
-- **Systems Engineering & Optimization** (Linux Kernel Tuning, perf, VTune, Valgrind)
-- **Distributed Systems & Scalability**
-- **Market Microstructure & Real-Time Data Processing** (Tick Data, Order Books, HFT Systems)
+**Computer Science & Mathematics @ Appalachian State University**  
 
-Outside of Software, I am a former [Memory Champion](https://mindsportsolympiad.com/), and current [Poker Player](https://www.thehendonmob.com/) and [Competitive Programmer](https://icpc.global/).<br>Ich spreche etwas Deutsch, 我正在学习中文. If you'd like to connect, please reach out via email: [blackwellaf[at]appstate[dot]edu](mailto:blackwellaf@appstate.edu).
+### Focus Areas
+- **Systems & Performance** — C++, concurrency, low-latency  
+- **Infrastructure & Reliability** — security, OS internals, resilience  
+- **Parallel & HPC** — GPU, MPI, OpenMP, distributed systems  
+- **Algorithms & Theory** — algorithms, logic, game theory  
+
+Outside of class, I’ve competed in [memory sports](https://mindsportsolympiad.com/), [poker tournaments](https://www.thehendonmob.com/), and [competitive programming contests](https://icpc.global/).\
+I enjoy applying pattern recognition and optimization across different domains.  
+
+Reach me at: [blackwellaf[at]appstate[dot]edu](mailto:blackwellaf@appstate.edu)  
