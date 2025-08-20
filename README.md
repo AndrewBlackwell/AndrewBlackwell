@@ -6,7 +6,7 @@
 - **Systems & Performance** — C++, concurrency, low-latency  
 - **Infrastructure & Reliability** — security, OS internals, resilience  
 - **Parallel & HPC** — GPU, MPI, OpenMP, distributed systems  
-- **Algorithms & Theory** — algorithms, logic, game theory  
+- **Algorithms & Theory** — algorithms, logic, PL theory
 
 Outside of class, I’ve competed in [memory sports](https://mindsportsolympiad.com/), [poker tournaments](https://www.thehendonmob.com/), and [competitive programming contests](https://icpc.global/).\
 I enjoy applying pattern recognition and optimization across different domains.  
